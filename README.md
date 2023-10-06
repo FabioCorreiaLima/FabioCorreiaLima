@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fábio Lima
 
 - 🌱 Estudando PHP ...
-- <div>
+- <div style="display: flex; flex-direction: row;>
   <a href="https://github.com/FabioCorreiaLima/FabioCorreiaLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioCorreiaLima&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioCorreiaLima&layout=compact&theme=tokyonight"/>
